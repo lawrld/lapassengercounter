@@ -1,0 +1,41 @@
+body {
+    max-width: 400px;
+    background-image: url("https://a-us.storyblok.com/f/1018357/1800x1200/f8656af77e/tokyostation_26743613_m.jpg");
+    background-size: cover;
+    font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', sans-serif;
+    color: #e6e1e3;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #ff6961;
+}
+
+#save-btn {
+    background: #89e894;
+}
+
